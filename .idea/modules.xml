@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackPropANNJava.iml" filepath="$PROJECT_DIR$/.idea/modules/BackPropANNJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackPropANNJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BackPropANNJava_main.iml" group="BackPropANNJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackPropANNJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BackPropANNJava_test.iml" group="BackPropANNJava" />
+    </modules>
+  </component>
+</project>
